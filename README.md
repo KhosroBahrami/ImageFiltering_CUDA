@@ -18,10 +18,10 @@ These are example of the input image and resulted image after filtering:
 
 Original image:
 <p align="center">
-  <img  src="Box_Filter/input.jpg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
+  <img  src="BoxFilter/sample.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
 </p>
 
 Filtered image by Box filtering:
 <p align="center">
-  <img  src="Box_Filter/output_gpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
+  <img  src="BoxFilter/sample_gpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
 </p>
