@@ -25,3 +25,29 @@ Filtered image by Box filtering:
 <p align="center">
   <img  src="BoxFilter/sample_gpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
 </p>
+
+Filtered image by Laplacian filtering:
+<p align="center">
+  <img  src="LaplacianFilter/sample_gpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
+</p>
+
+Filtered image by Median filtering:
+<p align="center">
+  <img  src="MedianFilter/sample_gpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
+</p>
+
+Filtered image by Sharpening filtering:
+<p align="center">
+  <img  src="SharpeningFilter/sample_gpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
+</p>
+
+Filtered image by Sobel filtering:
+<p align="center">
+  <img  src="SobelEdgeDetectFilter/sample_gpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
+</p>
+
+Filtered image by TV filtering:
+<p align="center">
+  <img  src="TVFilter/sample_gpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
+</p>
+
