@@ -38,7 +38,7 @@ Filtered image by Median filtering:
 
 Filtered image by Sharpening filtering:
 <p align="center">
-  <img  src="SharpeningFilter/sample_gpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
+  <img  src="SharpeningFilter/sample_cpu.jpeg" alt="alt text" width="50%" height="50%" title="Box filtering using GPU">
 </p>
 
 Filtered image by Sobel filtering:
